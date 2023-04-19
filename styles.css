@@ -1,0 +1,82 @@
+.body{
+    background-color: #c8dda4;
+}
+.navbar{
+    background-color: #E3B448;
+    
+}
+.navbar .navbar-brand{
+    color:  #3A6B35;
+    font-weight:bolder;
+}
+.navbar .container-fluid .navbar-nav .nav-item .nav-link{
+    color: #3A6B35;
+    font-weight: 400;
+}
+.company-slogans{
+    background-color:  #3A6B35;
+    padding-top: 7rem;
+    padding-bottom: 9rem;
+    text-align: center;
+    color: #CBD18F;
+}
+
+.goal{
+    background-color: #CBD18F;
+    padding-top: 4rem;
+    padding-bottom: 7rem;
+    color: #3A6B35;
+}
+
+.title-our-mission{
+    text-align: center;
+}
+.matter-about-goals{
+    width: 80%;
+    padding-left: 20%;
+    text-align: center;
+}
+
+.testimonials{
+    background-color: #3A6B35;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+    color: #CBD18F;
+    text-align: center;
+}
+
+.imgs{
+    text-align: center;
+    width: 20%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.carousel-control-prev-icon{
+    margin-left: 35%;
+}
+.carousel-control-next-icon{
+    margin-right: 35%;
+}
+
+.further-links{
+    background-color: #E3B448;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    /* color: #3A6B35; */
+}
+
+.further-links a{
+    text-decoration: none;
+    color: black;
+    /* color: #3A6B35; */
+}
+.copyrights{
+    background-color: #E3B448;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    /* color: #3A6B35; */
+}
+
